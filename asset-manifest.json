@@ -1,0 +1,15 @@
+{
+  "main.css": "/covidtracker/static/css/main.c26f1d17.chunk.css",
+  "main.js": "/covidtracker/static/js/main.38971bde.chunk.js",
+  "main.js.map": "/covidtracker/static/js/main.38971bde.chunk.js.map",
+  "static/js/1.03ae7ea8.chunk.js": "/covidtracker/static/js/1.03ae7ea8.chunk.js",
+  "static/js/1.03ae7ea8.chunk.js.map": "/covidtracker/static/js/1.03ae7ea8.chunk.js.map",
+  "static/js/2.f536cd67.chunk.js": "/covidtracker/static/js/2.f536cd67.chunk.js",
+  "static/js/2.f536cd67.chunk.js.map": "/covidtracker/static/js/2.f536cd67.chunk.js.map",
+  "runtime~main.js": "/covidtracker/static/js/runtime~main.32f9d6aa.js",
+  "runtime~main.js.map": "/covidtracker/static/js/runtime~main.32f9d6aa.js.map",
+  "static/css/main.c26f1d17.chunk.css.map": "/covidtracker/static/css/main.c26f1d17.chunk.css.map",
+  "index.html": "/covidtracker/index.html",
+  "precache-manifest.027039f26e8b6da068e2a985754f4e76.js": "/covidtracker/precache-manifest.027039f26e8b6da068e2a985754f4e76.js",
+  "service-worker.js": "/covidtracker/service-worker.js"
+}
